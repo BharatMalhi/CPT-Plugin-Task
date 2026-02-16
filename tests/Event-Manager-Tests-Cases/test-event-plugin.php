@@ -1,5 +1,10 @@
 <?php
 /**
+ * Running Tests
+ * Install WordPress testing framework
+ * Configure wp-tests-config.php
+ * Run tests using: phpunit --filter=Test_Event_Plugin
+ *All core functionalities and edge cases are covered to ensure plugin stability and reliability.
  * Event Plugin Unit Tests
  */
 
